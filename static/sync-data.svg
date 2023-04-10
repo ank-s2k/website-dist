@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="364" viewBox="0 0 424 364">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="gray" stop-opacity=".25"/>
+            <stop offset="54%" stop-color="gray" stop-opacity=".12"/>
+            <stop offset="100%" stop-color="gray" stop-opacity=".1"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#B3B3B3" stop-opacity=".25"/>
+            <stop offset="54%" stop-color="#B3B3B3" stop-opacity=".1"/>
+            <stop offset="100%" stop-color="#B3B3B3" stop-opacity=".05"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#E0E0E0" stroke-dasharray="7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M315.8 166s12.8-47.81-12.8-97"/>
+        <path stroke="#E0E0E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M137 161"/>
+        <path stroke="#E0E0E0" stroke-dasharray="7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M140.114 150c4.46-18.64 5.792-57.502-53.114-74"/>
+        <path stroke="#E0E0E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M82 75"/>
+        <path fill="url(#a)" fill-rule="nonzero" d="M32 163h370v201H32z"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M35 166h364v193H35z"/>
+        <circle cx="105.5" cy="195.5" r="17.5" fill="url(#b)" fill-rule="nonzero"/>
+        <circle cx="106" cy="195" r="16" fill="#FFC107" fill-rule="nonzero"/>
+        <path fill="#BDBDBD" fill-rule="nonzero" d="M143 191h89v9h-89z"/>
+        <path fill="#E0E0E0" fill-rule="nonzero" d="M105 250h224v9H105zM105 230h224v9H105zM105 269h224v9H105zM105 290h224v9H105zM105 310h224v9H105zM105 329h224v9H105z"/>
+        <path stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M70 163"/>
+        <path stroke="#BDBDBD" stroke-dasharray="6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M69.951 152c.327-9.748-.81-24.32-8.951-34"/>
+        <path stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M58 114"/>
+        <path stroke="#E0E0E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M276 166"/>
+        <path stroke="#E0E0E0" stroke-dasharray="0" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M276.951 156c.327-9.748-.81-24.32-8.951-34"/>
+        <path stroke="#E0E0E0" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M263 118"/>
+        <path stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M364 163"/>
+        <path stroke="#BDBDBD" stroke-dasharray="6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M364.049 152c-.327-9.748.81-24.32 8.951-34"/>
+        <path stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M377 114"/>
+        <path fill="#FFC107" fill-rule="nonzero" d="M0 53h50v28H0zM277 33h50v28h-50zM233 83h50v28h-50z" opacity=".7"/>
+        <path fill="#FFC107" fill-rule="nonzero" d="M37 58h83v45H37zM341 60h83v45h-83zM154 0h83v45h-83z"/>
+        <path stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M189 162"/>
+        <path stroke="#BDBDBD" stroke-dasharray="6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M191.602 151c2.919-9.745 4.82-25.316-4.439-41.389-11.43-19.85-1.152-39.19 4.691-47.611"/>
+        <path stroke="#BDBDBD" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" d="M195 59"/>
+    </g>
+</svg>

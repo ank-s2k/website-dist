@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="78" viewBox="0 0 70 78">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="gray" stop-opacity=".25"/>
+            <stop offset="54%" stop-color="gray" stop-opacity=".12"/>
+            <stop offset="100%" stop-color="gray" stop-opacity=".1"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero">
+        <path fill="#ECEFF1" d="M0 53h70v25H0zM0 27h70v25H0zM0 0h70v25H0z"/>
+        <path fill="#38454F" d="M5 58h3v13H5zM5 33h3v13H5zM5 7h3v13H5zM11 58h3v13h-3zM10 33h3v13h-3zM10 7h3v13h-3zM16 58h3v13h-3zM16 33h3v13h-3zM16 7h3v13h-3zM21 58h3v13h-3zM21 33h3v13h-3zM21 7h3v13h-3zM26 58h3v13h-3zM26 33h3v13h-3zM26 7h3v13h-3zM32 58h3v13h-3zM31 33h3v13h-3zM31 7h3v13h-3zM37 58h3v13h-3zM37 33h3v13h-3zM37 7h3v13h-3zM42 58h3v13h-3zM42 33h3v13h-3zM42 7h3v13h-3z"/>
+        <circle cx="59.5" cy="64.5" r="6.5" fill="#FFC107"/>
+        <circle cx="59.5" cy="38.5" r="6.5" fill="#FFC107"/>
+        <circle cx="59.5" cy="11.5" r="6.5" fill="#FFC107"/>
+        <ellipse cx="60" cy="65.5" fill="url(#a)" rx="7" ry="7.5"/>
+        <ellipse cx="60" cy="39.5" fill="url(#a)" rx="7" ry="7.5"/>
+        <ellipse cx="60" cy="12.5" fill="url(#a)" rx="7" ry="7.5"/>
+    </g>
+</svg>
